@@ -1,0 +1,11 @@
+FILE LISTING (acad 1.1,acad1..2,Acad 1)
+    We get a string and it's length is checked tha it should not be 1.so it will enter the loop and will ask the user to pass one argument.
+after the argument is passed will exit the loop and will create a new path once the new path is created will under go try and catch blocks 
+a new configuration is created so that it choses which login module must be chosen.later will create a file system and file status in 
+order to list the files nad to know the status of those files.Inside the for loop if fstatus is directory or file ot simulation link then it
+would show its path or else will catch the exceeption and wil print the exception.
+
+
+FILE WRITE (aca 3,acad 2)
+
+FILE LIST RECURESIVE (acad 3,aca 2)
