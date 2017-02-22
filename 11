@@ -7,5 +7,14 @@ would show its path or else will catch the exceeption and wil print the exceptio
 
 
 FILE WRITE (aca 3,acad 2)
+    Here we get a string and check its length later create a new path and wll under go for loop the input should be be equal to the number
+ given and should undergo try and catch block available to be used for particular application later remote iterator is used which take a
+ bulk input of data and will return a array of data.Later enters while loop and will get a list of all data as array using next keyword. 
+
 
 FILE LIST RECURESIVE (acad 3,aca 2)
+
+   Will get the input from the user and will check the input length if it is not equal to 1 then it will enter the if loop where an 
+argument is passsed from the user side.And a new path is created inside the path try and catch block were executedd as well while loop. 
+inside the try block a newe configuration,File system and remote iterator for the path will be created followed by while loop.Where it 
+will print the list of all teh path details.if any exception occurs then will enter the exception block.
